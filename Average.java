@@ -24,8 +24,7 @@ class Average {
         average = (a + b + c) / 3.0;
 
         // Display the result
-        System.out.println("The average of a, b, and c is as follows
-			: " + average);
+        System.out.println("The average of a, b, and c is as follows ::: " + average);
 
         
     }
